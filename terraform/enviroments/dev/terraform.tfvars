@@ -1,0 +1,1 @@
+proxmox_endpoint = "https://192.168.3.50:8006/"
